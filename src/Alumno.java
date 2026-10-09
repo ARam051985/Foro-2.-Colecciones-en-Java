@@ -17,3 +17,4 @@ public class Alumno {
     public void setEdad(int edad) {this.edad = edad;}
     public void setMatricula(String matricula) {this.matricula = matricula;}
 }
+
